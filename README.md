@@ -1,4 +1,4 @@
-# Advanced SQL Data Analysis: Insurance Dataset Exploration
+# SQL Data Analysis: Insurance Dataset Exploration
 
 ## Project Overview
 
